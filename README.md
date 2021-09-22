@@ -2,7 +2,7 @@
 
 Packle is a Discord study bot based on research done on restesting and spaced learning.
 You can test out the bot or DM Packle by joining the [support server](https://discord.gg/V2TXDrAfZs)
-Or learn about the [research](https://github.com/Jaaaxe/packle/blob/main/Packle%20Report.pdf) behind the bot
+or learn about the [research](https://github.com/Jaaaxe/packle/blob/main/Packle%20Report.pdf) behind the bot
 
 ## FAQ
 
@@ -20,3 +20,5 @@ When you add Packle to a sever you can use the flashcard functionality with all 
 
 **How do I add Packle to a server** \
 You will need to be the admin of a server to add bots. You can use this [link](https://discord.com/api/oauth2/authorize?client_id=854675806784454686&permissions=8&scope=bot) or send it to the admin of a server you'd like Packle to be in
+\
+Feel free to reach out on Discord for questions / suggestions by adding KCat#7711
