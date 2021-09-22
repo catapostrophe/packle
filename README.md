@@ -4,7 +4,7 @@ Packle is a Discord study bot based on research done on restesting and spaced le
 You can test out the bot or DM Packle by joining the [support server](https://discord.gg/V2TXDrAfZs)
 Or learn about the [research](https://github.com/Jaaaxe/packle/blob/main/Packle%20Report.pdf) behind the bot
 
-##FAQ
+## FAQ
 
 **How do I use Packle?**
 You can use Packle in study mode or quiz mode
