@@ -20,5 +20,5 @@ When you add Packle to a sever you can use the flashcard functionality with all 
 
 **How do I add Packle to a server** \
 You will need to be the admin of a server to add bots. You can use this [link](https://discord.com/api/oauth2/authorize?client_id=854675806784454686&permissions=8&scope=bot) or send it to the admin of a server you'd like Packle to be in
-\
+<br /><br />
 Feel free to reach out on Discord for questions / suggestions by adding KCat#7711
